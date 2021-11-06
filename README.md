@@ -2,7 +2,7 @@
 An Image Classifier Model that Classifes Images with Ease. It has been made using HTML , Python and Flask. It has a Vast Dataset and can recognise a large vareity of Images with Ease. 
 
 ## Input - Output Screenshot Below 
-https://github.com/ria-2511/Image-CLassifier-flask/blob/main/71064959-3c34be80-213e-11ea-8e13-91800ca2d345.gif
+![Input Output Screenshot](https://github.com/ria-2511/Image-CLassifier-flask/blob/main/71064959-3c34be80-213e-11ea-8e13-91800ca2d345.gif)
 
 ## Local Installation
 It's easy to install and run it on your computer.
